@@ -1,4 +1,4 @@
-## sendmail
+## httpserver
 
 A command-line tool to start a http server
 

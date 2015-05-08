@@ -25,3 +25,4 @@ $ source ~/.bash_profile
 
 * [httpserver](httpserver) A simple http server
 * [sendmail](sendmail) A tool for sending email
+* [sshexec](sshexec) Execute remote commands through ssh

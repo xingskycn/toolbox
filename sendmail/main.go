@@ -24,6 +24,8 @@ func Usage(){
     -subject   optional subject
     -body      optional body
     -att       optional attachment, like "/path/to/a" or more "/path/to/a:/path/to/b"
+
+Creator: Cloud <cloud@txthinking.com>
 `
         fmt.Print(usage)
 }

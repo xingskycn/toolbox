@@ -13,6 +13,8 @@ Usage:
     -h        Help.
     -l        Listen address. Default: 0.0.0.0:80.
     -d        Absolute path of Root directory. Default: ".".
+
+Creator: Cloud <cloud@txthinking.com>
 `
     fmt.Print(usage)
 }

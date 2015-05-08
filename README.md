@@ -3,10 +3,22 @@ toolbox
 
 ### Requirements
 
+On Linux
+
 ```
 $ sudo apt-get install golang
-$ export GOPATH=~/go
-$ export PATH=$GOPATH/bin:$PATH
+$ echo 'GOPATH=~/go' >> ~/.bashrc
+$ echo 'PATH=$GOPATH/bin:$PATH' >> ~/.bashrc
+$ source ~/.bashrc
+```
+
+On OSX
+
+```
+$ brew install go
+$ echo 'GOPATH=~/go' >> ~/.bash_profile
+$ echo 'PATH=$GOPATH/bin:$PATH' >> ~/.bash_profile
+$ source ~/.bash_profile
 ```
 
 ### Tools

@@ -1,6 +1,6 @@
 ## sendmail
 
-A command-line tool for send email
+A command-line tool to send email
 
 ### Install
 ```

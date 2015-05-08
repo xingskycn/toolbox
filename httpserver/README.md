@@ -1,6 +1,6 @@
 ## sendmail
 
-A command-line tool for start a http server
+A command-line tool to start a http server
 
 ### Install
 ```
